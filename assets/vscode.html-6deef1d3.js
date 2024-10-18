@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-333f7030","path":"/3.procedural/12.tech-tricks/vscode.html","title":"Tricks with VS Code","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"删除文件中的空格","slug":"删除文件中的空格","link":"#删除文件中的空格","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/12.tech-tricks/vscode.md"}');export{e as data};

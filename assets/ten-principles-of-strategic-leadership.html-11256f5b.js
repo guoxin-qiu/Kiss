@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01da06fd","path":"/3.procedural/31.management/ten-principles-of-strategic-leadership.html","title":"Ten Principles Of Strategic Leadership","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/31.management/ten-principles-of-strategic-leadership.md"}');export{e as data};

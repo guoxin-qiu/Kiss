@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-77d3d1aa","path":"/2.conceptual/22.biz-FMCG/%E4%B8%80%E4%BA%9B%E7%BC%A9%E5%86%99.html","title":"一些缩写","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"2.conceptual/22.biz-FMCG/一些缩写.md"}');export{t as data};

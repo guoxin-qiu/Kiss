@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e311707c","path":"/2.conceptual/22.biz-medical/%E5%B8%B8%E7%94%A8%E5%90%8D%E8%AF%8D.html","title":"医疗行业常用名词","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"2.conceptual/22.biz-medical/常用名词.md"}');export{t as data};

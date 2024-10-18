@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8c428bb8","path":"/5.resources/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%9552%E8%AE%B2/02.html","title":"02 讲：如何设计一个“好的”测试用例？","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1692634731000,"contributors":[{"name":"guoxin-qiu","email":"guoxin.qiu@outlook.com","commits":1}]},"filePathRelative":"5.resources/软件测试52讲/02.md"}');export{e as data};

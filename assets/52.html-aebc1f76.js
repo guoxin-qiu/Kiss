@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7b443b2e","path":"/5.resources/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%9552%E8%AE%B2/52.html","title":"52 讲：深入浅出网站可扩展性架构设计","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1692634731000,"contributors":[{"name":"guoxin-qiu","email":"guoxin.qiu@outlook.com","commits":1}]},"filePathRelative":"5.resources/软件测试52讲/52.md"}');export{e as data};

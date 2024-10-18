@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f31c1938","path":"/3.procedural/31.management/TL%E8%A7%92%E8%89%B2%E8%AE%A4%E7%9F%A5.html","title":"TL 角色认知","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/31.management/TL角色认知.md"}');export{e as data};

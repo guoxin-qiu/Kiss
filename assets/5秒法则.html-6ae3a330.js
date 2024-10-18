@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-03de51a2","path":"/4.metacognitive/21.strategic/5%E7%A7%92%E6%B3%95%E5%88%99.html","title":"5 秒法则","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"4.metacognitive/21.strategic/5秒法则.md"}');export{t as data};

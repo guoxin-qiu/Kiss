@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a5e65ed6","path":"/1.factual/english/100-sentences.html","title":"100 句","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"1.factual/english/100-sentences.md"}');export{e as data};

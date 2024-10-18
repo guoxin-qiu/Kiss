@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ceff32ca","path":"/3.procedural/12.tech-tricks/timer.html","title":"纯 CSS 计时器","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/12.tech-tricks/timer.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2f856e5f","path":"/3.procedural/22.scurm/z-references.html","title":"References","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/22.scurm/z-references.md"}');export{e as data};

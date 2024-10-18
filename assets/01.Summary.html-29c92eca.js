@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-717c9ac3","path":"/2.conceptual/41.PMBOK/01.Summary.html","title":"PMBOK Guide","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"2.conceptual/41.PMBOK/01.Summary.md"}');export{t as data};

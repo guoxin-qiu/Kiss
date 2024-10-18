@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5d6c08d0","path":"/3.procedural/22.scurm/user-story-zh.html","title":"用户故事-相关知识-待整理","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/22.scurm/user-story-zh.md"}');export{t as data};

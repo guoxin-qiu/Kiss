@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cf16df18","path":"/5.resources/agile-guide/abbreviations.html","title":"缩写","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1692634731000,"contributors":[{"name":"guoxin-qiu","email":"guoxin.qiu@outlook.com","commits":1}]},"filePathRelative":"5.resources/agile-guide/abbreviations.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-363d0210","path":"/3.procedural/13.tech-frontend/11.css.html","title":"CSS","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"BEM Standard","slug":"bem-standard","link":"#bem-standard","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/13.tech-frontend/11.css.md"}');export{t as data};

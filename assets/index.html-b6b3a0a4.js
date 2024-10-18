@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2c6ba77c","path":"/5.resources/","title":"Pool of Resources","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1692634731000,"contributors":[{"name":"guoxin-qiu","email":"guoxin.qiu@outlook.com","commits":1}]},"filePathRelative":"5.resources/README.md"}');export{e as data};

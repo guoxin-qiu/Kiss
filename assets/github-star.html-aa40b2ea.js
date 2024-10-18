@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b64f684e","path":"/5.resources/github-star.html","title":"GitHub Stars","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":1692634731000,"contributors":[{"name":"guoxin-qiu","email":"guoxin.qiu@outlook.com","commits":1}]},"filePathRelative":"5.resources/github-star.md"}');export{t as data};

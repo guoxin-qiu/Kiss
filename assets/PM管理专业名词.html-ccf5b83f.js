@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2983d1f8","path":"/3.procedural/31.management/PM%E7%AE%A1%E7%90%86%E4%B8%93%E4%B8%9A%E5%90%8D%E8%AF%8D.html","title":"PM 管理专业名词","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/31.management/PM管理专业名词.md"}');export{e as data};

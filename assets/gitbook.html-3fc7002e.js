@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-65da9db9","path":"/3.procedural/11.tech-tools/gitbook.html","title":"GitBook","lang":"zh-cn","frontmatter":{},"headers":[{"level":2,"title":"安装","slug":"安装","link":"#安装","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/11.tech-tools/gitbook.md"}');export{t as data};

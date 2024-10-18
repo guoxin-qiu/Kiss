@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0772b25d","path":"/2.conceptual/11.tech-arch/EA-5W1H.html","title":"Enterprise Architecture","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"2.conceptual/11.tech-arch/EA-5W1H.md"}');export{t as data};

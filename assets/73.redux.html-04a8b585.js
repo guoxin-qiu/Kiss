@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-23238f03","path":"/3.procedural/13.tech-frontend/73.redux.html","title":"Redux","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"3.procedural/13.tech-frontend/73.redux.md"}');export{e as data};

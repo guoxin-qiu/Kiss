@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6c3be148","path":"/2.conceptual/11.tech-arch/22%E6%9D%A1API%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%99.html","title":"22 条 API 设计规则","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"2.conceptual/11.tech-arch/22条API设计规则.md"}');export{t as data};

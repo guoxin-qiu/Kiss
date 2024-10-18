@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-529a5492","path":"/4.metacognitive/41.motto/motto.html","title":"有用的句子","lang":"zh-cn","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"4.metacognitive/41.motto/motto.md"}');export{t as data};

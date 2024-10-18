@@ -1,0 +1,7 @@
+import{_ as a,o as e,c as s,e as n}from"./app-d85a60fe.js";const i={},r=n(`<h1 id="mysql" tabindex="-1"><a class="header-anchor" href="#mysql" aria-hidden="true">#</a> MySQL</h1><h2 id="登录" tabindex="-1"><a class="header-anchor" href="#登录" aria-hidden="true">#</a> 登录</h2><p>需要找到 MySQL 的 bin 目录下，打开 CMD</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>mysql <span class="token parameter variable">-uroot</span> <span class="token parameter variable">-p</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="一些命令" tabindex="-1"><a class="header-anchor" href="#一些命令" aria-hidden="true">#</a> 一些命令</h2><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token comment"># 数据库列表</span>
+mysql<span class="token operator">&gt;</span> show databases<span class="token punctuation">;</span>
+
+<span class="token comment"># 创建数据库</span>
+mysql<span class="token operator">&gt;</span> create database bonbon<span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,6),d=[r];function t(l,c){return e(),s("div",null,d)}const p=a(i,[["render",t],["__file","mysql.html.vue"]]);export{p as default};

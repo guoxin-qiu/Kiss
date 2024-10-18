@@ -1,0 +1,16 @@
+{
+  "name": "KISS",
+  "short_name": "KISS",
+  "description": "Keep It Simple Stupid",
+  "start_url": "/kiss/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/kiss/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
